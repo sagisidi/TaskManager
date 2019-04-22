@@ -1,0 +1,3 @@
+export const ADD_TO_DO_LIST_TASK = 'ADD_TO_DO_LIST_TASK';
+export const ADD_DOING_LIST_TASK = 'ADD_DOING_LIST_TASK';
+
